@@ -24,7 +24,7 @@ If you find this code or our dataset helpful in your research, please use the fo
 ```
 @article{Huang2022NHA, 
    title   = {NHA12D: A New Pavement Crack Dataset and A Comparison Study of Crack Detection Algorithms}, 
-   author  = {Zhening Huang, Abir Al-Tabbaa, Weiwei Chen and Ioannis Brilakis}, 
+   author  = {Zhening Huang, Weiwei Chen, Abir Al-Tabbaa, and Ioannis Brilakis}, 
    journal = {2022 European Conference on Computing in Construction},
    year    = {2022}, 
 }
